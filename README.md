@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👋 Hi, I’m @Derick317, an undergraduate student at Peking Univerisy
-- 👀 I’m interested in algorithms and theoretical problems (in fact, what attracts me most is Quantum Physics, although Richard Feynman claimed that no one understood it)
-- 🌱 I’m currently learning Operating Systems, Computer Networks and Randomized algorithms
-- 💞️ I’m doing research On Computer Vision and Algorithmic Game Theory
+- 👋 Hi, I’m @Derick317, an undergraduate student at Peking Univerisy. I will come to Carnegie Mellon University in fall 2024.
+- 👀 I’m interested in algorithms and theoretical problems
 - 📫 My email: cdm[at]pku[dot]edu[dot]cn
 
 <!---
