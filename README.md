@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👋 Hi, I’m @Derick317, an undergraduate student at Peking Univerisy. I will come to Carnegie Mellon University in fall 2024.
-- 👀 I’m interested in algorithms and theoretical problems
-- 📫 My email: cdm[at]pku[dot]edu[dot]cn
+- 👋 Hi, I’m @Derick317, a graduate student majoring in computer science at Carnegie Mellon University.
+- 👀 I’m interested in algorithms and computer systems.
+- 📫 My email: derick[at]cmu[dot]edu
 
 <!---
 Derick317/Derick317 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
